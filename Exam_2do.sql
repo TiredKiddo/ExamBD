@@ -52,10 +52,10 @@ END;
 EXECUTE dt_ins_alu(2, 201020058, 'Silvia', 'Rodriguez', 'Villa',
            'CP', '6C21', 6, 'I', 86);
 
-EXECUTE dt_ins_alu(3, 227020003, 'Dylan Antonio', 'Granillo', 'González',
+EXECUTE dt_ins_alu(3, 227020003, 'Dylan Antonio', 'Granillo', 'GonzÃ¡lez',
            'TICS', '2T11', 2, 'E', 91);
 
-EXECUTE dt_ins_alu(4, 206020008, 'Evelin Lizet', 'Cruz', 'Martínez',
+EXECUTE dt_ins_alu(4, 206020008, 'Evelin Lizet', 'Cruz', 'MartÃ­nez',
            'ISC', '6S12', 6, 'B', 91);
 
 EXECUTE dt_ins_alu(5, 206020047, 'Ariana Estefania', 'Rodriguez', 'Monroy',
@@ -64,10 +64,10 @@ EXECUTE dt_ins_alu(5, 206020047, 'Ariana Estefania', 'Rodriguez', 'Monroy',
 EXECUTE dt_ins_alu(6, 220020151, 'Andrea', 'Pacheco', 'Galindo',
            'GT', '2G11', 2, 'C', 93);
 
-EXECUTE dt_ins_alu(7, 213010021, 'Emmanuel', 'López', 'Nicolás',
+EXECUTE dt_ins_alu(7, 213010021, 'Emmanuel', 'LÃ³pez', 'NicolÃ¡s',
            'IND', '4I11', 4, 'F', 93);
 
-EXECUTE dt_ins_alu(8, 210010034, 'Denisse Elizabeth', 'Guzmán', 'Godínez',
+EXECUTE dt_ins_alu(8, 210010034, 'Denisse Elizabeth', 'GuzmÃ¡n', 'GodÃ­nez',
            'GT', '5G11', 5, 'B', 80);
 
 EXECUTE dt_ins_alu(9, 200020046, 'Alexander', 'Aguilar', 'Velazquez',
@@ -76,13 +76,13 @@ EXECUTE dt_ins_alu(9, 200020046, 'Alexander', 'Aguilar', 'Velazquez',
 EXECUTE dt_ins_alu(10, 200020008, 'Ariana Yamily', 'Sandoval', 'Torres',
            'GT', '6G11', 6, 'D', 95);
 
-EXECUTE dt_ins_alu(11, 205020005, 'Luis Alberto', 'Santiago', 'García',
+EXECUTE dt_ins_alu(11, 205020005, 'Luis Alberto', 'Santiago', 'GarcÃ­a',
            'ER', '6E11', 6, 'I', 86);
 
 EXECUTE dt_ins_alu(12, 220020210, 'Kevin', 'Gonzales', 'Godinez',
            'GT', '6G11', 6, 'D', 89);
 
-EXECUTE dt_ins_alu(13, 205020001, 'Guadalupe', 'Hernández', 'Cruz',
+EXECUTE dt_ins_alu(13, 205020001, 'Guadalupe', 'HernÃ¡ndez', 'Cruz',
            'ER', '6E11', 6, 'I', 83);
 
 EXECUTE dt_ins_alu(14, 20002011, 'Kevin Aron', 'Juarez', 'Juarez',
@@ -103,7 +103,7 @@ EXECUTE dt_ins_alu(18, 219020019, 'Uriel', 'Mendoza', 'Loza',
 EXECUTE dt_ins_alu(19, 206010028, 'Cristian Alejandro', 'Romero', 'Rojano',
            'ISC', '7S11', 7, 'B', 93);
 
-EXECUTE dt_ins_alu(20, 206020028, 'Brayan', 'Rodríguez', 'Rodríguez',
+EXECUTE dt_ins_alu(20, 206020028, 'Brayan', 'RodrÃ­guez', 'RodrÃ­guez',
            'ISC', '6S11', 6, 'A', 94);
 
 EXECUTE dt_ins_alu(21, 212020059, 'Karla Michelle', 'Hernandez', 'Orozco',
@@ -127,7 +127,7 @@ EXECUTE dt_ins_alu(26, 220010014, 'Juan Sebastian', 'Marin', 'Robles',
 EXECUTE dt_ins_alu(27, 192020028, 'Itzel', 'Montalvo', 'Arano',
            'ADM', '5AD11', 5, 'D', 83);
 
-EXECUTE dt_ins_alu(28, 206020014, 'Luis Alfredo', 'Guzmán', 'Collado',
+EXECUTE dt_ins_alu(28, 206020014, 'Luis Alfredo', 'GuzmÃ¡n', 'Collado',
            'ISC', '6S11', 6, 'A', 70);
 
 EXECUTE dt_ins_alu(29, 214020146, 'Kate Leslie', 'De la rosa', 'Chavez',
@@ -148,19 +148,19 @@ EXECUTE dt_ins_alu(33, 2010253, 'Miriam', 'Rojas', 'Nicolas',
 EXECUTE dt_ins_alu(34, 201020074, 'Evelin', 'Cruz', 'Herrera',
            'CP', '6C11', 6, 'I', 90);
 
-EXECUTE dt_ins_alu(35, 203020077, 'Eduardo Jesús', 'Garcia', 'Ferreira',
+EXECUTE dt_ins_alu(35, 203020077, 'Eduardo JesÃºs', 'Garcia', 'Ferreira',
            'IND', '6I12', 6, 'E', 83);
 
 EXECUTE dt_ins_alu(36, 186010117, 'Angel Rafael', 'Mercado', 'Martinez',
            'ISC', '4S21', 4, 'A', 83);
 
-EXECUTE dt_ins_alu(37, 216020104, 'Mariana', 'Valdes', 'Munguía',
+EXECUTE dt_ins_alu(37, 216020104, 'Mariana', 'Valdes', 'MunguÃ­a',
            'ISC', '4S21', 4, 'A', 85);
 
-EXECUTE dt_ins_alu(38, 195020004, 'Jesús Uriel', 'Valdez', 'Bobadilla',
+EXECUTE dt_ins_alu(38, 195020004, 'JesÃºs Uriel', 'Valdez', 'Bobadilla',
            'ER', '7E11', 7, 'I', 91);
 
-EXECUTE dt_ins_alu(39, 102010014, 'Juan de Dios', 'Sánchez', 'Durán',
+EXECUTE dt_ins_alu(39, 102010014, 'Juan de Dios', 'SÃ¡nchez', 'DurÃ¡n',
            'IND', '7I11', 7, 'F', 95);
 
 EXECUTE dt_ins_alu(40, 239010023, 'Andy Alberto', 'Sarmiento', 'Astudillo',
@@ -169,7 +169,7 @@ EXECUTE dt_ins_alu(40, 239010023, 'Andy Alberto', 'Sarmiento', 'Astudillo',
 EXECUTE dt_ins_alu(41, 239010035, 'Israel', 'Legorreta', 'Dominguez',
            'SAM', '1SA11', 1, 'E', 75);
 
-EXECUTE dt_ins_alu(42, 224020038, 'Josué Azdhriel', 'Morales', 'Perez',
+EXECUTE dt_ins_alu(42, 224020038, 'JosuÃ© Azdhriel', 'Morales', 'Perez',
            'SAM', '2SA11', 2, 'D', 87);
 
 EXECUTE dt_ins_alu(43, 229020029, 'Bruno', 'Esquivel', 'Bautista',
@@ -184,31 +184,31 @@ EXECUTE dt_ins_alu(45, 229020085, 'Gibran Andres', 'Robledo', 'Barron',
 EXECUTE dt_ins_alu(46, 219020038, 'Arturo Natanael', 'Serrano', 'Galindo',
            'SAM', '4SA11', 4, 'E', 76);
 
-EXECUTE dt_ins_alu(47, 229020066, 'Misael', 'García', 'Galicia',
+EXECUTE dt_ins_alu(47, 229020066, 'Misael', 'GarcÃ­a', 'Galicia',
            'SAM', '2SA11', 2, 'D', 87);
 
 EXECUTE dt_ins_alu(48, 229020043, 'Angel', 'Santillan', 'Coria',
            'SAM', '2SA11', 2, 'D', 80);
 
-EXECUTE dt_ins_alu(49, 193020111, 'José Raúl', 'Neri', 'Jiménez',
+EXECUTE dt_ins_alu(49, 193020111, 'JosÃ© RaÃºl', 'Neri', 'JimÃ©nez',
            'IND', '8I12', 8, 'F', 84);
 
-EXECUTE dt_ins_alu(50, 223020023, 'Barrón', 'Mora', 'Israel',
+EXECUTE dt_ins_alu(50, 223020023, 'BarrÃ³n', 'Mora', 'Israel',
            'IND', '2I11', 2, 'E', 85);
 
-EXECUTE dt_ins_alu(51, 223020004, 'Ricardo', 'Juárez', 'Arrieta',
+EXECUTE dt_ins_alu(51, 223020004, 'Ricardo', 'JuÃ¡rez', 'Arrieta',
            'IND', '2I11', 2, 'E', 85);
 
-EXECUTE dt_ins_alu(52, 223020008, 'Jonathan', 'Ramírez', 'Islas',
+EXECUTE dt_ins_alu(52, 223020008, 'Jonathan', 'RamÃ­rez', 'Islas',
            'IND', '2I11', 2, 'E', 89);
 
 EXECUTE dt_ins_alu(53, 201020065, 'Jonathan', 'Duran', 'Ildefonso',
            'CP', '6C11', 6, 'I', 78);
 
-EXECUTE dt_ins_alu(54, 20102002, 'Luis Armando', 'Díaz', 'Islas',
+EXECUTE dt_ins_alu(54, 20102002, 'Luis Armando', 'DÃ­az', 'Islas',
            'CP', '6C11', 6, 'I', 82);
 
-EXECUTE dt_ins_alu(55, 220020034, 'Victor Hugo', 'Centeno', 'García',
+EXECUTE dt_ins_alu(55, 220020034, 'Victor Hugo', 'Centeno', 'GarcÃ­a',
            'GT', '2G11', 2, 'C', 89);
 
 EXECUTE dt_ins_alu(56, 215020014, 'Erick Alejandro', 'Martinez', 'Ordaz',
@@ -223,7 +223,7 @@ EXECUTE dt_ins_alu(58, 201020020, 'Karen', 'Alvarado', 'Luna',
 EXECUTE dt_ins_alu(59, 223020028, 'Ivan Yael', 'Mendoza', 'Xihuilt',
            'IND', '2I11', 2, 'E', 87);
 
-EXECUTE dt_ins_alu(60, 224020036, 'Luis Orlando', 'Rojas', 'Limón',
+EXECUTE dt_ins_alu(60, 224020036, 'Luis Orlando', 'Rojas', 'LimÃ³n',
            'IA', '2A11', 2, 'H', 86);
 
 EXECUTE dt_ins_alu(61, 201020017, 'Ana Cristy', 'Alfaro', 'De Jesus',
@@ -238,16 +238,16 @@ EXECUTE dt_ins_alu(63, 207010011, 'Dulce Maria', 'Ortiz', 'Reyes',
 EXECUTE dt_ins_alu(64, 207010014, 'Pamela', 'Perez', 'Ayala',
            'TICS', '7T11', 7, 'E', 88);
 
-EXECUTE dt_ins_alu(65, 207010006, 'Angel Gabriel', 'Hernández', 'Garcia',
+EXECUTE dt_ins_alu(65, 207010006, 'Angel Gabriel', 'HernÃ¡ndez', 'Garcia',
            'TICS', '7T11', 7, 'E', 93);
 
-EXECUTE dt_ins_alu(66, 217010003, 'Pablo Uriel', 'Paz', 'Zuñiga',
+EXECUTE dt_ins_alu(66, 217010003, 'Pablo Uriel', 'Paz', 'ZuÃ±iga',
            'TICS', '5T11', 5, 'E', 88);
 
-EXECUTE dt_ins_alu(67, 215020003, 'Alexis', 'Carbajal', 'Gómez',
+EXECUTE dt_ins_alu(67, 215020003, 'Alexis', 'Carbajal', 'GÃ³mez',
            'ER', '4E11', 4, 'I', 86);
 
-EXECUTE dt_ins_alu(68, 215020004, 'Monica Valeria', 'Huerta', 'García',
+EXECUTE dt_ins_alu(68, 215020004, 'Monica Valeria', 'Huerta', 'GarcÃ­a',
            'ER', '4E11', 4, 'I', 96);
 
 EXECUTE dt_ins_alu(69, 215020002, 'Karen Citlali', 'Arenas', 'Carmona',
@@ -262,22 +262,22 @@ EXECUTE dt_ins_alu(71, 202020091, 'Mariana Yaquelin', 'Becerra', 'Flores',
 EXECUTE dt_ins_alu(72, 202020096, 'Gabriela Jocelin', 'Cadena', 'Castro',
            'ADM', '6AD12', 6, 'D', 87);
 
-EXECUTE dt_ins_alu(73, 215020017, 'Luis Alfredo', 'Torres', 'Hernández',
+EXECUTE dt_ins_alu(73, 215020017, 'Luis Alfredo', 'Torres', 'HernÃ¡ndez',
            'ER', '4E11', 4, 'I', 83);
 
-EXECUTE dt_ins_alu(74, 225020006, 'Kevin Uriel', 'Rodríguez', 'Aguilar',
+EXECUTE dt_ins_alu(74, 225020006, 'Kevin Uriel', 'RodrÃ­guez', 'Aguilar',
            'ER', '2E11', 2, 'I', 94);
 
-EXECUTE dt_ins_alu(75, 215020001, 'Ricardo', 'García', 'López',
+EXECUTE dt_ins_alu(75, 215020001, 'Ricardo', 'GarcÃ­a', 'LÃ³pez',
            'ER', '4E11', 4, 'I', 86);
 
-EXECUTE dt_ins_alu(76, 224010003, 'Miguel Angel', 'García', 'Huerta',
+EXECUTE dt_ins_alu(76, 224010003, 'Miguel Angel', 'GarcÃ­a', 'Huerta',
            'IA', '3A11', 3, 'E', 84);
 
 EXECUTE dt_ins_alu(77, 224010008, 'Brenda', 'Montiel', 'Juarez',
            'IA', '3A11', 3, 'H', 82);
 
-EXECUTE dt_ins_alu(78, 214020017, 'Kareini', 'Domínguez', 'Samano',
+EXECUTE dt_ins_alu(78, 214020017, 'Kareini', 'DomÃ­nguez', 'Samano',
            'IA', '3A11', 3, 'H', 80);
 
 EXECUTE dt_ins_alu(79, 224010006, 'Brayan Isaac', 'Platero', 'Dominguez',
@@ -289,7 +289,7 @@ EXECUTE dt_ins_alu(80, 224010001, 'Cecilia', 'Abad', 'Ramos',
 EXECUTE dt_ins_alu(81, 224010010, 'Adalid', 'Arguello', 'Carretero',
            'IA', '3A11', 3, 'H', 86);
 
-EXECUTE dt_ins_alu(82, 224010004, 'Diana Abigail', 'Montes', 'Hernández',
+EXECUTE dt_ins_alu(82, 224010004, 'Diana Abigail', 'Montes', 'HernÃ¡ndez',
            'IA', '3A11', 3, 'E', 90);
 
 EXECUTE dt_ins_alu(83, 224010007, 'Casandra', 'Victoria', 'Reyes',
@@ -301,13 +301,13 @@ EXECUTE dt_ins_alu(84, 197020009, 'Jair Abinadar', 'Montalvo', 'Rivera',
 EXECUTE dt_ins_alu(85, 197020011, 'Paul', 'Torres', 'Aguillon',
            'TICS', '8T11', 8, 'E', 90);
 
-EXECUTE dt_ins_alu(86, 197020004, 'Mauricio', 'Lara', 'Jiménez',
+EXECUTE dt_ins_alu(86, 197020004, 'Mauricio', 'Lara', 'JimÃ©nez',
            'TICS', '8T11', 8, 'E', 92);
 
-EXECUTE dt_ins_alu(87, 221020042, 'Gerardo Iván', 'Ceron', 'Ramírez',
+EXECUTE dt_ins_alu(87, 221020042, 'Gerardo IvÃ¡n', 'Ceron', 'RamÃ­rez',
            'CP', '2C11', 2, 'I', 92);
 
-EXECUTE dt_ins_alu(88, 197020020, 'Christian Alexis', 'Hernández', 'Padilla',
+EXECUTE dt_ins_alu(88, 197020020, 'Christian Alexis', 'HernÃ¡ndez', 'Padilla',
            'TICS', '8T11', 8, 'E', 92);
 
 EXECUTE dt_ins_alu(89, 197020015, 'Daniel', 'Ramirez', 'Romero',
@@ -315,8 +315,7 @@ EXECUTE dt_ins_alu(89, 197020015, 'Daniel', 'Ramirez', 'Romero',
 
 EXECUTE dt_ins_alu(90, 221020073, 'Vicente Alejandro', 'Angel', 'Luna',
            'CP', '2C11', 2, 'I', 95);
- ----------------------------------------------Ingeniería en Sistemas Computacionales--ISC------------------------------------------------------------------------
-
+ ----ISC----
 CREATE TABLE isc (
     id              NUMBER(3),
     matricula       NUMBER(9),
@@ -359,7 +358,7 @@ FROM
     isc;
 
 DELETE FROM isc;
-----------------------------------------Ingeniería en Tecnologías de la Información y Comunicaciones---TICS----------------------------------------------------
+--TICS----
 
 CREATE TABLE tics (
     id              NUMBER(3),
@@ -403,8 +402,7 @@ FROM
     tics;
 
 DELETE FROM tics;
------------------------------------------------Licenciatura Contador Público--CP-------------------------------------------------------------------------------------------
-
+--CP---
 CREATE TABLE cp (
     id              NUMBER(3),
     matricula       NUMBER(9),
@@ -447,7 +445,7 @@ FROM
     cp;
 
 DELETE FROM cp;
--------------------------------------------------------------Licenciatura en Gastronomía--GT---------------------------------------------------------------------------------
+-GT-----
 
 CREATE TABLE gt (
     id              NUMBER(3),
@@ -491,7 +489,7 @@ FROM
     gt;
 
 DELETE FROM gt;
---------------------------------------------Ingenieria Industrial--IND--------------------------------------------------------------------------------
+-IND--
 
 CREATE TABLE ind (
     id              NUMBER(3),
@@ -535,7 +533,7 @@ FROM
     ind;
 
 DELETE FROM ind;
-----------------------------------------------Ingeniería en Energias Renovables--ER-----------------------------------------------------------------------------------
+-ER--
 
 CREATE TABLE er (
     id              NUMBER(3),
@@ -579,7 +577,8 @@ FROM
     er;
 
 DELETE FROM er;
-----------------------------------------------Ingeniería en Administración--ADM---------------------------------------------------------------------------------------
+
+-ADM----
 
 CREATE TABLE adm (
     id              NUMBER(3),
@@ -623,7 +622,8 @@ FROM
     adm;
 
 DELETE FROM adm;
-----------------------------------------------Ingeniería en Sistemas Automotrices--SAM----------------------------------------------------------------------------------------
+
+-SAM----
 
 CREATE TABLE sam (
     id              NUMBER(3),
@@ -667,7 +667,7 @@ FROM
     sam;
 
 DELETE FROM sam;
-----------------------------------------------Ingeniería Ambiental--IA------------------------------------------------------------------------------
+-IA---
 
 CREATE TABLE ia (
     id              NUMBER(3),
@@ -720,7 +720,7 @@ WHERE
     semestre = 1;
 
 
-----------------------------------------------------------Aqui acaba el primer ejercicio ----------------------------------------------------------------------------------------------------------------
+-----------------------------1er EJE--------------------
 
 CREATE TABLE profesores_tesoem (
     id             NUMBER NOT NULL UNIQUE,
@@ -788,31 +788,31 @@ EXECUTE dt_ins_prof(7, 681, 'Francisco Raul', 'Salvador', 'Ginez',
             'ISC', 'Redes de Computadoras', '6S12');
 
 EXECUTE dt_ins_prof(8, 681, 'Francisco Raul', 'Salvador', 'Ginez',
-            'ISC', 'Conmutación y Enrutamiento de Computadoras', '7S11');
+            'ISC', 'ConmutaciÃ³n y Enrutamiento de Computadoras', '7S11');
 
 EXECUTE dt_ins_prof(9, 209, 'Maria Cristina', 'Rodriguez', 'Mendias',
-            'ISC', 'Investigación de Operaciones', '3S11');
+            'ISC', 'InvestigaciÃ³n de Operaciones', '3S11');
 
 EXECUTE dt_ins_prof(10, 209, 'Maria Cristina', 'Rodriguez', 'Mendias',
-            'ISC', 'Métodos Numericos', '4S11');
+            'ISC', 'MÃ©todos Numericos', '4S11');
 
 EXECUTE dt_ins_prof(11, 209, 'Maria Cristina', 'Rodriguez', 'Mendias',
-            'ISC', 'Métodos Numericos', '4S12');
+            'ISC', 'MÃ©todos Numericos', '4S12');
 
 EXECUTE dt_ins_prof(12, 209, 'Maria Cristina', 'Rodriguez', 'Mendias',
-            'ISC', 'Métodos Numericos', '4S21');
+            'ISC', 'MÃ©todos Numericos', '4S21');
 
 EXECUTE dt_ins_prof(13, 209, 'Maria Cristina', 'Rodriguez', 'Mendias',
-            'ISC', 'Simulación', '4S11');
+            'ISC', 'SimulaciÃ³n', '4S11');
 
 EXECUTE dt_ins_prof(14, 209, 'Maria Cristina', 'Rodriguez', 'Mendias',
-            'ISC', 'Simulación', '4S12');
+            'ISC', 'SimulaciÃ³n', '4S12');
 
 EXECUTE dt_ins_prof(15, 209, 'Maria Cristina', 'Rodriguez', 'Mendias',
-            'ISC', 'Simulación', '4S21');
+            'ISC', 'SimulaciÃ³n', '4S21');
 
 EXECUTE dt_ins_prof(16, 147, 'Gerardo', 'Nava', 'Hernandez',
-            'ISC', 'Graficación', '5S11');
+            'ISC', 'GraficaciÃ³n', '5S11');
 
 EXECUTE dt_ins_prof(17, 147, 'Gerardo', 'Nava', 'Hernandez',
             'ISC', 'Lenguajes de Interfaz', '6S11');
@@ -857,19 +857,19 @@ EXECUTE dt_ins_prof(30, 243, 'Albertossi', 'Landeros', 'Rojas',
             'ISC', 'Sistemas Programables', '7S11');
 
 EXECUTE dt_ins_prof(31, 243, 'Albertossi', 'Landeros', 'Rojas',
-            'TICS', 'Circuitos Eléctricos y Eléctronicos', '4T11');
+            'TICS', 'Circuitos ElÃ©ctricos y ElÃ©ctronicos', '4T11');
 
 EXECUTE dt_ins_prof(32, 188, 'Luis Israel', 'Guerrero', 'Lucio',
-            'GT', 'Microbiología de los alimentos', '1G11');
+            'GT', 'MicrobiologÃ­a de los alimentos', '1G11');
 
 EXECUTE dt_ins_prof(33, 188, 'Luis Israel', 'Guerrero', 'Lucio',
-            'GT', 'Microbiología de los alimentos', '1G21');
+            'GT', 'MicrobiologÃ­a de los alimentos', '1G21');
 
 EXECUTE dt_ins_prof(34, 188, 'Luis Israel', 'Guerrero', 'Lucio',
             'GT', 'Quimica de los alimentos', '3G11');
 
 EXECUTE dt_ins_prof(35, 348, 'Jose Luis', 'Villareal', 'Lopez',
-            'TICS', 'Analisis de señales y sistemas de comunicación', '5T11');
+            'TICS', 'Analisis de seÃ±ales y sistemas de comunicaciÃ³n', '5T11');
 
 EXECUTE dt_ins_prof(36, 348, 'Jose Luis', 'Villareal', 'Lopez',
             'TICS', 'Electricidad y Magnetismo', '3T11');
@@ -878,85 +878,85 @@ EXECUTE dt_ins_prof(37, 348, 'Jose Luis', 'Villareal', 'Lopez',
             'TICS', 'Telecomunicaciones', '6T11');
 
 EXECUTE dt_ins_prof(38, 348, 'Jose Luis', 'Villareal', 'Lopez',
-            'TICS', 'Administración y Seguridad de redes', '8T11');
+            'TICS', 'AdministraciÃ³n y Seguridad de redes', '8T11');
 
 EXECUTE dt_ins_prof(39, 348, 'Jose Luis', 'Villareal', 'Lopez',
-            'TICS', 'Administración y Seguridad de redes', '8T21');
+            'TICS', 'AdministraciÃ³n y Seguridad de redes', '8T21');
 
 EXECUTE dt_ins_prof(40, 756, 'Cesar Michael', 'Gonzalez', 'Serrano',
-            'ADM', 'Adminstración Financiera', '6AD12');
+            'ADM', 'AdminstraciÃ³n Financiera', '6AD12');
 
 EXECUTE dt_ins_prof(41, 756, 'Cesar Michael', 'Gonzalez', 'Serrano',
             'ADM', 'Economia', '4AD11');
 
 EXECUTE dt_ins_prof(42, 756, 'Cesar Michael', 'Gonzalez', 'Serrano',
-            'ADM', 'Administracion de la Producción', '6AD11');
+            'ADM', 'Administracion de la ProducciÃ³n', '6AD11');
 
 EXECUTE dt_ins_prof(43, 756, 'Cesar Michael', 'Gonzalez', 'Serrano',
             'ADM', 'Finanzas Etrategicas para MIPYMES', '8AD11');
 
-EXECUTE dt_ins_prof(44, 694, 'Beatriz', 'Cortez', 'Rodríguez',
+EXECUTE dt_ins_prof(44, 694, 'Beatriz', 'Cortez', 'RodrÃ­guez',
             'ADM', 'Relaciones Publicas', '8AD12');
 
-EXECUTE dt_ins_prof(45, 694, 'Beatriz', 'Cortez', 'Rodríguez',
+EXECUTE dt_ins_prof(45, 694, 'Beatriz', 'Cortez', 'RodrÃ­guez',
             'ADM', 'Capital Humano', '5AD11');
 
-EXECUTE dt_ins_prof(46, 694, 'Beatriz', 'Cortez', 'Rodríguez',
-            'ADM', 'Administración de la calidad', '7AD11');
+EXECUTE dt_ins_prof(46, 694, 'Beatriz', 'Cortez', 'RodrÃ­guez',
+            'ADM', 'AdministraciÃ³n de la calidad', '7AD11');
 
-EXECUTE dt_ins_prof(47, 694, 'Beatriz', 'Cortez', 'Rodríguez',
-            'GT', 'Dirección de establecimientos de Alimentos y Bebidas', '8G11');
+EXECUTE dt_ins_prof(47, 694, 'Beatriz', 'Cortez', 'RodrÃ­guez',
+            'GT', 'DirecciÃ³n de establecimientos de Alimentos y Bebidas', '8G11');
 
-EXECUTE dt_ins_prof(48, 415, 'Juan Carlos', 'Martínez', 'Hernández',
-            'ER', 'Sistemas Térmicos', '6E11');
+EXECUTE dt_ins_prof(48, 415, 'Juan Carlos', 'MartÃ­nez', 'HernÃ¡ndez',
+            'ER', 'Sistemas TÃ©rmicos', '6E11');
 
-EXECUTE dt_ins_prof(49, 415, 'Juan Carlos', 'Martínez', 'Hernández',
-            'ER', 'Termodinámica', '4E11');
+EXECUTE dt_ins_prof(49, 415, 'Juan Carlos', 'MartÃ­nez', 'HernÃ¡ndez',
+            'ER', 'TermodinÃ¡mica', '4E11');
 
-EXECUTE dt_ins_prof(50, 415, 'Juan Carlos', 'Martínez', 'Hernández',
-            'ER', 'Macro moléculas', '7E11');
+EXECUTE dt_ins_prof(50, 415, 'Juan Carlos', 'MartÃ­nez', 'HernÃ¡ndez',
+            'ER', 'Macro molÃ©culas', '7E11');
 
 EXECUTE dt_ins_prof(51, 698, 'Alejandro', 'Bustamante', 'Duran',
-            'GT', 'Tendencias de la alta repostería', '8G11');
+            'GT', 'Tendencias de la alta reposterÃ­a', '8G11');
 
 EXECUTE dt_ins_prof(52, 698, 'Alejandro', 'Bustamante', 'Duran',
-            'GT', 'Tendencias de la alta repostería', '8G12');
+            'GT', 'Tendencias de la alta reposterÃ­a', '8G12');
 
 EXECUTE dt_ins_prof(53, 698, 'Alejandro', 'Bustamante', 'Duran',
-            'GT', 'Tendencias de la alta repostería', '8G21');
+            'GT', 'Tendencias de la alta reposterÃ­a', '8G21');
 
 EXECUTE dt_ins_prof(54, 698, 'Alejandro', 'Bustamante', 'Duran',
             'GT', 'Panaderia', '4G21');
 
 EXECUTE dt_ins_prof(55, 698, 'Alejandro', 'Bustamante', 'Duran',
-            'GT', 'Introducción a la reposteria', '5G11');
+            'GT', 'IntroducciÃ³n a la reposteria', '5G11');
 
 EXECUTE dt_ins_prof(56, 698, 'Alejandro', 'Bustamante', 'Duran',
-            'GT', 'Introducción a la reposteria', '5G21');
+            'GT', 'IntroducciÃ³n a la reposteria', '5G21');
 
-EXECUTE dt_ins_prof(57, 720, 'Monserrat', 'Hernández', 'Flores',
+EXECUTE dt_ins_prof(57, 720, 'Monserrat', 'HernÃ¡ndez', 'Flores',
             'GT', 'Cocina internacional 1', '6G11');
 
-EXECUTE dt_ins_prof(58, 720, 'Monserrat', 'Hernández', 'Flores',
+EXECUTE dt_ins_prof(58, 720, 'Monserrat', 'HernÃ¡ndez', 'Flores',
             'GT', 'Cocina internacional 1', '6G21');
 
-EXECUTE dt_ins_prof(59, 720, 'Monserrat', 'Hernández', 'Flores',
+EXECUTE dt_ins_prof(59, 720, 'Monserrat', 'HernÃ¡ndez', 'Flores',
             'GT', 'Cocina internacional 1', '6G22');
 
-EXECUTE dt_ins_prof(60, 720, 'Monserrat', 'Hernández', 'Flores',
+EXECUTE dt_ins_prof(60, 720, 'Monserrat', 'HernÃ¡ndez', 'Flores',
             'GT', 'Cultura y Patrimonio', '2G22');
 
-EXECUTE dt_ins_prof(61, 720, 'Monserrat', 'Hernández', 'Flores',
+EXECUTE dt_ins_prof(61, 720, 'Monserrat', 'HernÃ¡ndez', 'Flores',
             'GT', 'Cultura y Patrimonio', '2G21');
 
 EXECUTE dt_ins_prof(62, 630, 'Marco', 'Mejia', 'Villalpando',
-            'IA', 'Probabilidad y Estadística Ambiental', '2A11');
+            'IA', 'Probabilidad y EstadÃ­stica Ambiental', '2A11');
 
 EXECUTE dt_ins_prof(63, 630, 'Marco', 'Mejia', 'Villalpando',
-            'IA', 'Producción más limpia', '8A11');
+            'IA', 'ProducciÃ³n mÃ¡s limpia', '8A11');
 
 EXECUTE dt_ins_prof(64, 630, 'Marco', 'Mejia', 'Villalpando',
-            'IA', 'Producción más limpia', '8A12');
+            'IA', 'ProducciÃ³n mÃ¡s limpia', '8A12');
 
 EXECUTE dt_ins_prof(65, 630, 'Marco', 'Mejia', 'Villalpando',
             'IA', 'Residuos Valorisables', '8A11');
@@ -965,7 +965,7 @@ EXECUTE dt_ins_prof(66, 630, 'Marco', 'Mejia', 'Villalpando',
             'IA', 'Residuos Valorisables', '8A12');
 
 EXECUTE dt_ins_prof(67, 630, 'Marco', 'Mejia', 'Villalpando',
-            'IA', 'Toxicología Am biental', '5A11');
+            'IA', 'ToxicologÃ­a Am biental', '5A11');
 
 EXECUTE dt_ins_prof(68, 630, 'Marco', 'Mejia', 'Villalpando',
             'IA', 'Biomquimica', '3A11');
@@ -983,19 +983,19 @@ EXECUTE dt_ins_prof(72, 695, 'Minandro', 'Camarillo', 'Cadena',
             'IA', 'Ecuaciones Diferenciales', '4A11');
 
 EXECUTE dt_ins_prof(73, 477, 'Victor', 'Duarte', 'Zaragoza',
-            'IA', 'Fundamentos de Investigación', '7A11');
+            'IA', 'Fundamentos de InvestigaciÃ³n', '7A11');
 
 EXECUTE dt_ins_prof(74, 477, 'Victor', 'Duarte', 'Zaragoza',
-            'IA', 'Taller de investigación 1', '6A11');
+            'IA', 'Taller de investigaciÃ³n 1', '6A11');
 
 EXECUTE dt_ins_prof(75, 477, 'Victor', 'Duarte', 'Zaragoza',
             'IA', 'Manejo Integral del Suelo ', '8A11');
 
 EXECUTE dt_ins_prof(76, 477, 'Victor', 'Duarte', 'Zaragoza',
-            'IA', 'Remediación del suelo', '7A11');
+            'IA', 'RemediaciÃ³n del suelo', '7A11');
  
  
-  ----------------------------------------------Ingeniería en Sistemas Computacionales--ISC---------------------------------------------------------------------------
+ --ISCProf--------
 
 CREATE TABLE profes_isc (
     id                NUMBER NOT NULL UNIQUE,
@@ -1042,7 +1042,7 @@ FROM
     profes_isc;
 
 DELETE FROM profes_isc;
-----------------------------------------Ingeniería en Tecnologías de la Información y Comunicaciones---TICS----------------------------------------------------
+-TICSProf---
 
 CREATE TABLE profes_tics (
     id                NUMBER NOT NULL UNIQUE,
@@ -1089,7 +1089,7 @@ FROM
     profes_tics;
 
 DELETE FROM profes_tics;
------------------------------------------------Licenciatura Contador Público--CP-------------------------------------------------------------------------------------------
+-CPProf--------
 
 CREATE TABLE profes_cp (
     id                NUMBER NOT NULL UNIQUE,
@@ -1137,8 +1137,8 @@ FROM
 
 DELETE FROM profes_cp;
 
-o--
--------------------------------------------------------------Licenciatura en Gastronomía--GT---------------------------------------------------------------------------------
+
+-GTProf----
 create table profes_GT(id number not null unique,
 Num_empleado number (9) ,
 Nombre_completo varchar2 (60),
@@ -1159,7 +1159,7 @@ execute pa_profes_GT;
 select* from profes_GT;
 
 delete from profes_GT;
---------------------------------------------Ingenieria Industrial--IND------------------------------------------------------------------------------
+---INDProf--------
 create table profes_IND(id number not null unique,
 Num_empleado number (9) ,
 Nombre_completo varchar2 (60),
@@ -1179,7 +1179,7 @@ execute pa_profes_IND;
 select* from profes_IND;
 
 delete from profes_IND;
-----------------------------------------------Ingeniería en Energias Renovables--ER----------------------------------------------------------------------------
+-ERProf---
 create table profes_ER(id number not null unique,
 Num_empleado number (9) ,
 Nombre_completo varchar2 (60),
@@ -1200,7 +1200,7 @@ execute pa_profes_ER;
 select* from profes_ER;
 
 delete from profes_ER;
-----------------------------------------------Ingeniería en Administración--ADM---------------------------------------------------------------------------------------
+-ADMProf----
 create table profes_ADM(id number not null unique,
 Num_empleado number (9) ,
 Nombre_completo varchar2 (60),
@@ -1221,7 +1221,7 @@ execute pa_profes_ADM;
 select* from profes_ADM;
 
 delete from profes_ADM;
-----------------------------------------------Ingeniería en Sistemas Automotrices--SAM--------------------------------------------------------------------------------------
+-SAMProf--
 create table profes_SAM(id number not null unique,
 Num_empleado number (9) ,
 Nombre_completo varchar2 (60),
@@ -1242,7 +1242,7 @@ execute pa_profes_SAM;
 select* from profes_SAM;
 
 delete from profes_SAM;
-----------------------------------------------Ingeniería Ambiental--IA------------------------------------------------------------------------------
+-IAProf--
  create table profes_IA(id number not null unique,
 Num_empleado number (9) ,
 Nombre_completo varchar2 (60),
@@ -1263,7 +1263,7 @@ execute pa_profes_IA;
 select * from profes_IA;
 
 delete from profes_IA; 
- -------------------------------------------------------------ejercicio 2-----------------------------------------------------------------------------------------
+ -------------------------------------------------------------EJE 2-----------------------------------------------------------------------------------------
  ----------------------------------------------------beca al 100% de aprovechamiento--------------------------------------------------------------------
 create table cien_porciento ( id number (3) unique,
 Matricula number (9),
