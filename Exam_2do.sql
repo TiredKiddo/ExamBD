@@ -52,167 +52,18 @@ END;
 
 
 
-EXECUTE dt_ins_alu(37, 216020104, 'Mariana', 'Valdes', 'Munguía',
-           'ISC', '4S21', 4, 'A', 85);
+ 
 
-EXECUTE dt_ins_alu(38, 195020004, 'Jesús Uriel', 'Valdez', 'Bobadilla',
-           'ER', '7E11', 7, 'I', 91);
 
-EXECUTE dt_ins_alu(39, 102010014, 'Juan de Dios', 'Sánchez', 'Durán',
-           'IND', '7I11', 7, 'F', 95);
 
-EXECUTE dt_ins_alu(40, 239010023, 'Andy Alberto', 'Sarmiento', 'Astudillo',
-           'SAM', '1SA11', 1, 'E', 87);
 
-EXECUTE dt_ins_alu(41, 239010035, 'Israel', 'Legorreta', 'Dominguez',
-           'SAM', '1SA11', 1, 'E', 75);
 
-EXECUTE dt_ins_alu(42, 224020038, 'Josué Azdhriel', 'Morales', 'Perez',
-           'SAM', '2SA11', 2, 'D', 87);
+ 
 
-EXECUTE dt_ins_alu(43, 229020029, 'Bruno', 'Esquivel', 'Bautista',
-           'SAM', '2SA11', 2, 'D', 82);
 
-EXECUTE dt_ins_alu(44, 219020058, 'Armando', 'Mercado', 'Lopez',
-           'SAM', '4SA11', 4, 'E', 82);
 
-EXECUTE dt_ins_alu(45, 229020085, 'Gibran Andres', 'Robledo', 'Barron',
-           'SAM', '2SA11', 2, 'D', 86);
 
-EXECUTE dt_ins_alu(46, 219020038, 'Arturo Natanael', 'Serrano', 'Galindo',
-           'SAM', '4SA11', 4, 'E', 76);
 
-EXECUTE dt_ins_alu(47, 229020066, 'Misael', 'García', 'Galicia',
-           'SAM', '2SA11', 2, 'D', 87);
-
-EXECUTE dt_ins_alu(48, 229020043, 'Angel', 'Santillan', 'Coria',
-           'SAM', '2SA11', 2, 'D', 80);
-
-EXECUTE dt_ins_alu(49, 193020111, 'José Raúl', 'Neri', 'Jiménez',
-           'IND', '8I12', 8, 'F', 84);
-
-EXECUTE dt_ins_alu(50, 223020023, 'Barrón', 'Mora', 'Israel',
-           'IND', '2I11', 2, 'E', 85);
-
-EXECUTE dt_ins_alu(51, 223020004, 'Ricardo', 'Juárez', 'Arrieta',
-           'IND', '2I11', 2, 'E', 85);
-
-EXECUTE dt_ins_alu(52, 223020008, 'Jonathan', 'Ramírez', 'Islas',
-           'IND', '2I11', 2, 'E', 89);
-
-EXECUTE dt_ins_alu(53, 201020065, 'Jonathan', 'Duran', 'Ildefonso',
-           'CP', '6C11', 6, 'I', 78);
-
-EXECUTE dt_ins_alu(54, 20102002, 'Luis Armando', 'Díaz', 'Islas',
-           'CP', '6C11', 6, 'I', 82);
-
-EXECUTE dt_ins_alu(55, 220020034, 'Victor Hugo', 'Centeno', 'García',
-           'GT', '2G11', 2, 'C', 89);
-
-EXECUTE dt_ins_alu(56, 215020014, 'Erick Alejandro', 'Martinez', 'Ordaz',
-           'ER', '2E11', 2, 'I', 70);
-
-EXECUTE dt_ins_alu(57, 183010096, 'Erik Mauricio', 'Sanchez', 'Cruz',
-           'IND', '8I12', 8, 'F', 80);
-
-EXECUTE dt_ins_alu(58, 201020020, 'Karen', 'Alvarado', 'Luna',
-           'CP', '6C11', 6, 'I', 85);
-
-EXECUTE dt_ins_alu(59, 223020028, 'Ivan Yael', 'Mendoza', 'Xihuilt',
-           'IND', '2I11', 2, 'E', 87);
-
-EXECUTE dt_ins_alu(60, 224020036, 'Luis Orlando', 'Rojas', 'Limón',
-           'IA', '2A11', 2, 'H', 86);
-
-EXECUTE dt_ins_alu(61, 201020017, 'Ana Cristy', 'Alfaro', 'De Jesus',
-           'CP', '6C21', 6, 'I', 82);
-
-EXECUTE dt_ins_alu(62, 201020034, 'Carlos Alberto', 'Largo', 'Camacho',
-           'CP', '6C21', 6, 'I', 80);
-
-EXECUTE dt_ins_alu(63, 207010011, 'Dulce Maria', 'Ortiz', 'Reyes',
-           'TICS', '7T11', 7, 'E', 91);
-
-EXECUTE dt_ins_alu(64, 207010014, 'Pamela', 'Perez', 'Ayala',
-           'TICS', '7T11', 7, 'E', 88);
-
-EXECUTE dt_ins_alu(65, 207010006, 'Angel Gabriel', 'Hernández', 'Garcia',
-           'TICS', '7T11', 7, 'E', 93);
-
-EXECUTE dt_ins_alu(66, 217010003, 'Pablo Uriel', 'Paz', 'Zuñiga',
-           'TICS', '5T11', 5, 'E', 88);
-
-EXECUTE dt_ins_alu(67, 215020003, 'Alexis', 'Carbajal', 'Gómez',
-           'ER', '4E11', 4, 'I', 86);
-
-EXECUTE dt_ins_alu(68, 215020004, 'Monica Valeria', 'Huerta', 'García',
-           'ER', '4E11', 4, 'I', 96);
-
-EXECUTE dt_ins_alu(69, 215020002, 'Karen Citlali', 'Arenas', 'Carmona',
-           'ER', '4E11', 4, 'I', 94);
-
-EXECUTE dt_ins_alu(70, 202020082, 'Blanca Flor', 'Albarran', 'Flor',
-           'ADM', '6AD12', 6, 'D', 90);
-
-EXECUTE dt_ins_alu(71, 202020091, 'Mariana Yaquelin', 'Becerra', 'Flores',
-           'ADM', '6AD12', 6, 'D', 95);
-
-EXECUTE dt_ins_alu(72, 202020096, 'Gabriela Jocelin', 'Cadena', 'Castro',
-           'ADM', '6AD12', 6, 'D', 87);
-
-EXECUTE dt_ins_alu(73, 215020017, 'Luis Alfredo', 'Torres', 'Hernández',
-           'ER', '4E11', 4, 'I', 83);
-
-EXECUTE dt_ins_alu(74, 225020006, 'Kevin Uriel', 'Rodríguez', 'Aguilar',
-           'ER', '2E11', 2, 'I', 94);
-
-EXECUTE dt_ins_alu(75, 215020001, 'Ricardo', 'García', 'López',
-           'ER', '4E11', 4, 'I', 86);
-
-EXECUTE dt_ins_alu(76, 224010003, 'Miguel Angel', 'García', 'Huerta',
-           'IA', '3A11', 3, 'E', 84);
-
-EXECUTE dt_ins_alu(77, 224010008, 'Brenda', 'Montiel', 'Juarez',
-           'IA', '3A11', 3, 'H', 82);
-
-EXECUTE dt_ins_alu(78, 214020017, 'Kareini', 'Domínguez', 'Samano',
-           'IA', '3A11', 3, 'H', 80);
-
-EXECUTE dt_ins_alu(79, 224010006, 'Brayan Isaac', 'Platero', 'Dominguez',
-           'IA', '3A11', 3, 'H', 84);
-
-EXECUTE dt_ins_alu(80, 224010001, 'Cecilia', 'Abad', 'Ramos',
-           'IA', '3A11', 3, 'H', 73);
-
-EXECUTE dt_ins_alu(81, 224010010, 'Adalid', 'Arguello', 'Carretero',
-           'IA', '3A11', 3, 'H', 86);
-
-EXECUTE dt_ins_alu(82, 224010004, 'Diana Abigail', 'Montes', 'Hernández',
-           'IA', '3A11', 3, 'E', 90);
-
-EXECUTE dt_ins_alu(83, 224010007, 'Casandra', 'Victoria', 'Reyes',
-           'IA', '3A11', 3, 'H', 93);
-
-EXECUTE dt_ins_alu(84, 197020009, 'Jair Abinadar', 'Montalvo', 'Rivera',
-           'TICS', '8T11', 8, 'E', 94);
-
-EXECUTE dt_ins_alu(85, 197020011, 'Paul', 'Torres', 'Aguillon',
-           'TICS', '8T11', 8, 'E', 90);
-
-EXECUTE dt_ins_alu(86, 197020004, 'Mauricio', 'Lara', 'Jiménez',
-           'TICS', '8T11', 8, 'E', 92);
-
-EXECUTE dt_ins_alu(87, 221020042, 'Gerardo Iván', 'Ceron', 'Ramírez',
-           'CP', '2C11', 2, 'I', 92);
-
-EXECUTE dt_ins_alu(88, 197020020, 'Christian Alexis', 'Hernández', 'Padilla',
-           'TICS', '8T11', 8, 'E', 92);
-
-EXECUTE dt_ins_alu(89, 197020015, 'Daniel', 'Ramirez', 'Romero',
-           'TICS', '8T11', 8, 'E', 80);
-
-EXECUTE dt_ins_alu(90, 221020073, 'Vicente Alejandro', 'Angel', 'Luna',
-           'CP', '2C11', 2, 'I', 95);
  ----ISC----
 CREATE TABLE isc (
     id              NUMBER(3),
